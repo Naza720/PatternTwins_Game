@@ -22,4 +22,4 @@ Spiele online:
 
 ## Autor
 
-- **Autor**: Naza720
+Entwickelt von Nazaret Arroyo Gomez.
