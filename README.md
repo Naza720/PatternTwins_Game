@@ -22,4 +22,4 @@ Spiele online:
 
 ## Autor
 
-- **Autor**: Nazaret Arroyo Gomez
+Entwickelt von Nazaret Arroyo Gomez.
