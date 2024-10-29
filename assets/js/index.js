@@ -20,7 +20,7 @@ const card = {
 
 // KONSTANTEN / VARIABLEN
 
-const images = [ //Array pfad imgs
+const images = [ 
   'assets/img-oneColor/Pattern_1.webp',
   'assets/img-oneColor/Pattern_2.webp',
   'assets/img-oneColor/Pattern_3.webp',
